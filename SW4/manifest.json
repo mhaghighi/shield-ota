@@ -1,6 +1,6 @@
 {
   "name": "Shield SW4 FW",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "builds": [
     {
       "chipFamily": "ESP8266",
