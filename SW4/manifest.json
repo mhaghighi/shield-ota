@@ -1,0 +1,13 @@
+{
+  "name": "Shield SW4 FW",
+  "version": "1.0.2",
+  "builds": [
+    {
+      "chipFamily": "ESP8266",
+      "ota": {
+        "md5": "794cdc184b97a8ab2e7612195ff6cb33",
+        "path": "firmware.ota.bin"
+      }
+    }
+  ]
+}
