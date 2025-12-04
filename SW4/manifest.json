@@ -5,7 +5,7 @@
     {
       "chipFamily": "ESP8266",
       "ota": {
-        "md5": "794cdc184b97a8ab2e7612195ff6cb33",
+        "md5": "d2dc5f3c1bc874297bfd102d3dbdcc20",
         "path": "firmware.ota.bin"
       }
     }
